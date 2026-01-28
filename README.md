@@ -10,19 +10,19 @@ Demonstrate that a Generative AI–powered Product Recommendation Agent can deli
 
 Scope
 
-User input (search query / chat / browsing history)
+•	User input (search query / chat / browsing history)
 
-Product catalog ingestion
+•	Product catalog ingestion
 
-User preference and behavior analysis
+•	User preference and behavior analysis
 
-Recommendation generation (top-N products)
+•	Recommendation generation (top-N products)
 
-Explanation of recommendations (why suggested)
+•	Explanation of recommendations (why suggested)
 
-Feedback capture (like / dislike / purchase)
+•	Feedback capture (like / dislike / purchase)
 
-Exportable and API-ready outputs
+•	Exportable and API-ready outputs
 
 Solution Overview
 
@@ -82,4 +82,4 @@ Captures clicks, purchases, likes/dislikes to refine future recommendations.
 
 8. Automation Workflow / Orchestration
 
-Coordinates catalog retrieval → analysis → recommendation → response generation using orchestration tools (FastAPI, LangChain, n8n, etc.).
+Coordinates catalog retrieval → analysis → recommendation → response generation using orchestration tools 
